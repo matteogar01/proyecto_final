@@ -1,0 +1,24 @@
+2023-09-27 00:15:37.603595-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "VEHICULOS" ya existe
+Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`placa` VARCHAR(255) , `marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `ejes` INTEGER , `cc` INTEGER , `valor` INTEGER , PRIMARY KEY (`placa`) ) [42101-224]
+2023-09-27 00:16:16.862841-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "VEHICULOS" ya existe
+Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`placa` VARCHAR(255) , `marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `ejes` INTEGER , `cc` INTEGER , `valor` INTEGER , PRIMARY KEY (`placa`) ) [42101-224]
+2023-09-27 00:16:30.261934-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "VEHICULOS" ya existe
+Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`placa` VARCHAR(255) , `marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `ejes` INTEGER , `cc` INTEGER , `valor` INTEGER , PRIMARY KEY (`placa`) ) [42101-224]
+2023-09-27 18:33:50.785006-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "VEHICULOS" ya existe
+Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`placa` VARCHAR(255) , `marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `ejes` INTEGER , `cc` INTEGER , `valor` INTEGER , PRIMARY KEY (`placa`) ) [42101-224]
+2023-09-27 18:34:06.642019-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "VEHICULOS" ya existe
+Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`placa` VARCHAR(255) , `marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `ejes` INTEGER , `cc` INTEGER , `valor` INTEGER , PRIMARY KEY (`placa`) ) [42101-224]
+2023-09-27 18:35:48.217208-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "VEHICULOS" ya existe
+Table "VEHICULOS" already exists; SQL statement:
+CREATE TABLE `vehiculos` (`placa` VARCHAR(255) , `marca` VARCHAR(255) , `modelo` VARCHAR(255) , `año` INTEGER , `ejes` INTEGER , `cc` INTEGER , `valor` INTEGER , PRIMARY KEY (`placa`) ) [42101-224]
